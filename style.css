@@ -1,0 +1,72 @@
+#uno {
+    width: 200px;
+    height: 100px;
+}
+
+#dos {
+    margin: 20px;
+}
+
+#tres {
+    padding: 10px;
+}
+
+#cuatro {
+    border: solid 2px red;
+}
+
+#cinco {
+    width: 150px;
+    margin-right: 10px;
+}
+
+#seis {
+    border: solid 3px black;
+}
+
+#siete li {
+    padding: 15px;
+}
+
+#ocho {
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+#nueve {
+    padding: 20px 5px 10px 5px;
+}
+
+#diez {
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+}
+
+#once {
+    width: 250px;
+    height: 150px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+#doce li {
+    margin-right: 15px;
+    padding: 10px;
+}
+
+#trece {
+    max-width: 400px;
+    margin: 0;
+}
+
+#catorce {
+    border: 2px solid green;
+    width: 500px;
+}
+
+#quince {
+    width: 120px;
+    margin-top: 10px;
+    padding: 5px;
+}
